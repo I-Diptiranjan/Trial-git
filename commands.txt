@@ -3,7 +3,8 @@ git remote add origin <link of your repo>  -- this will link your github reposet
 git remote show origin -- to check if origin was added
 
 
-git branch -M main
+git branch -M main -- create a main branch
+
 git branch -- to show all the branches
 git branch <branch Name> -- to add a new branch 
 git swicth <branch Name> -- to switch between branches
