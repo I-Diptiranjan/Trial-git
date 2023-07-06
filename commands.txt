@@ -1,0 +1,14 @@
+git init --initialize a local reposetory in tour system
+git remote add origin <link of your repo>  -- this will link your github reposetory with local reposetory
+git remote show origin -- to check if origin was added
+
+
+git branch -M main
+git branch -- to show all the branches
+git branch <branch Name> -- to add a new branch 
+git swicth <branch Name> -- to switch between branches
+
+
+git add .   -- this will add the changed files to the staging area
+git commit -m "message you want to give" --this will commit your changes 
+git push origin <branch> -- this cmd will push the committed changes into your git reposetory
