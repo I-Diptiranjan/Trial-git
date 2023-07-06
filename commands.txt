@@ -15,3 +15,5 @@ git commit -m "message you want to give" --this will commit your changes
 git push origin <branch> -- this cmd will push the committed changes into your git reposetory
 
 git clone <repo link>  -- to clone other repo
+
+git pull origin <branch name>  -- to pull the code from any other branch
